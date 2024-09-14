@@ -1,0 +1,479 @@
+/* Google Font */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+/* Main Wrapper */
+.main-wrapper {
+  width: 50%;
+  height: 70%;
+  margin: 0 auto;
+  border: 1px solid #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  overflow-y: auto;
+}
+
+/* Google Font */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar Background Color */
+.navbar {
+  background-color: #FDF3F1;
+}
+
+/* Main Container Background Color */
+.main-container {
+  background-color: #fdf3f1;
+  padding: 40px 0;
+}
+
+/* Brand Logo */
+.brand-logo {
+  width: 141px;
+  height: 32px;
+}
+
+/* Welcome Text */
+.welcome-text {
+  color: green;
+  font-weight: 500;
+}
+
+/* Main Heading */
+.main-heading {
+  color: black;
+  font-size: 2.5rem;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+/* Subheading */
+.subheading {
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+a{
+  font-size: 16px;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: green;
+}
+/* Button Group Styling */
+.button-group .btn {
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+/* Hero Image */
+.hero-image {
+  width: 470px;
+  height: 500px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Additional Section */
+.additional-container {
+  padding: 50px 0;
+}
+
+.corner-box {
+  background-color: red;
+  width: 94px;
+  height: 7px;
+  margin-bottom: 10px;
+}
+
+.learn-more {
+  color: green;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow-icon {
+  width: 8.62px;
+  height: 16px;
+}
+
+.card {
+  width: 150px;
+  margin-right: 20px;
+}
+
+.icon-box {
+  background-color: green;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.card h5 {
+  font-size: 1.25rem;
+}
+
+.line {
+  background-color: red;
+  width: 50px;
+  height: 2px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 0.9rem;
+}
+
+/* User Card Styling */
+.user-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.user-image {
+  width: 238px;
+  height
+
+
+
+
+
+
+
+
+}
+
+
+/* Background color for the navbar */
+.navbar {
+  background-color: #FDF3F1;
+}
+
+/* Background color for main container */
+.main-container {
+  background-color: #fdf3f1;
+  padding: 40px 0;
+}
+
+/* Brand Logo */
+.brand-logo {
+  width: 141px;
+  height: 32px;
+}
+
+/* Welcome Text */
+.welcome-text {
+  color: green;
+  font-weight: 500;
+}
+
+/* Main Heading */
+.main-heading {
+  color: black;
+  font-size: 2.5rem;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+/* Subheading */
+.subheading {
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+/* Button Group Styling */
+.button-group .btn {
+  font-size: 16px;
+  padding: 10px 20px;
+}
+
+/* Hero Image */
+.hero-image {
+  width: 470px;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+}
+
+/* Additional Section */
+.additional-container {
+  padding: 50px 0;
+}
+
+.corner-box {
+  background-color: red;
+  width: 94px;
+  height: 7px;
+  margin-bottom: 10px;
+}
+
+.learn-more {
+  color: green;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow-icon {
+  width: 8.62px;
+  height: 16px;
+}
+
+.card {
+  width: 150px;
+  margin-right: 20px;
+}
+
+.icon-box {
+  background-color: green;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.card h5 {
+  font-size: 1.25rem;
+}
+
+.line {
+  background-color: red;
+  width: 50px;
+  height: 2px;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 0.9rem;
+}
+.team-title{
+  color: green;
+}
+.news-title{
+  color: green;
+}
+/* User Card Styling */
+.user-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.user-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 15px;
+}
+
+.card-content h5 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.card-content p {
+  color: #666;
+}
+
+.social-icons i {
+  font-size: 1.5rem;
+  margin: 0 5px;
+  color: #555;
+}
+
+.social-icons i:hover {
+  color: #007bff;
+}
+
+/* New Section Styling */
+/* New Section Background Color */
+.bg-main {
+  background-color: #FDF3F1; /* Same background color as main section */
+}
+
+.newshelter-title {
+  color: green;
+}
+
+.courses-heading {
+  color: black;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+
+.bg-navbar-section p {
+  margin-top: 10px;
+  color: #333;
+}
+
+.form-control {
+  max-width: 100%;
+  width: 100%;
+  border-radius: 0.375rem;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  box-shadow: none;
+}
+
+.btn-success {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+}
+.form-control {
+  border-radius: 0;
+}
+
+.btn-success {
+  border-radius: 0;
+}
+
+.d-flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex-grow-1 {
+  flex: 1;
+}
+
+.ms-2 {
+  margin-left: 0.5rem;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #ffffff;
+}
+
+.footer-heading {
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.footer-links a {
+  color: #000;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact-info  {
+  color: #000;
+  margin-right: 0.5rem;
+}
+
+.footer-contact-info i {
+  color: green;
+  margin-right: 0.5rem;
+}
+
+.footer-bottom-text {
+  color: #000;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.social-icon {
+  color: green;
+  font-size: 1.5rem;
+  margin: 0 5px;
+}
+
+.social-icon:hover {
+  color: #007bff;
+}
+/* Main Rectangle */
+.main-rectangle {
+  background-color: #fdf3f1;
+  border: 1px solid #fff;
+  border-radius: 10px;
+  text-align: center;
+}
+
+/* Left Rectangle (Heading and Bullet Points) */
+.left-rectangle {
+  background-color: #fafdff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+
+.left-rectangle h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.left-rectangle ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.left-rectangle ul li {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+
+/* Right Rectangle (Color Boxes and Names) */
+.right-rectangle {
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 10px;
+}
+
+.right-rectangle h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.color-box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color-item {
+  width: 60px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 5px;
+}
+
+.color-name {
+  font-size: 0.8rem;
+  display: block;
+  font-weight: bold;
+  text-align: center;
+}
